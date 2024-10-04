@@ -1,0 +1,1 @@
+# plugins-wpredesigned-beautiful-custom-admin-theme
